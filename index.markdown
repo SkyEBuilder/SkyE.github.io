@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Go Gigabyte](/assets/Home (Duplicated 2024-09-28 161933)/index.html)
