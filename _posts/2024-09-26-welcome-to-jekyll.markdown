@@ -8,15 +8,15 @@ categories: jekyll update
 
 在这里你可以下载我的CSV文件：
 
-[LogisticRegression_filtered](https://yourusername.github.io/assets/classification_feature_importance_filtered.csv)
+[LogisticRegression_filtered](https://skyebuilder.github.io/assets/classification_feature_importance_filtered.csv)
 
-[LogisticRegression_all](https://yourusername.github.io/assets/classification_feature_importance_all.csv)
+[LogisticRegression_all](https://skyebuilder.github.io/assets/classification_feature_importance_all.csv)
 
-[RandomForestClassifier_filtered](https://yourusername.github.io/assets/classification_feature_importance_RF_filtered.csv)
+[RandomForestClassifier_filtered](https://skyebuilder.github.io/assets/classification_feature_importance_RF_filtered.csv)
 
 
 
-[RandomForestClassifier_all](https://yourusername.github.io/assets/classification_feature_importance_RF_all.csv)
+[RandomForestClassifier_all](https://skyebuilder.github.io/assets/classification_feature_importance_RF_all.csv)
 
 <!-- Loacal-test在这里你可以下载我的CSV文件：[下载 myfile.csv](http://127.0.0.1:4000/assets/classification_feature_importance_filtered.csv) -->
 
